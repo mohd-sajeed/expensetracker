@@ -5,4 +5,4 @@ keeps a record of
 your Expenditure, and has a Search Functionality.
 <br>
 Uses React hooks, props, and React
-styled components G
+styled components 
