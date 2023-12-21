@@ -1,4 +1,4 @@
-Expense Tracker App
+# Expense Tracker App
 that Tracks your Expense, 
 keeps a record of
 <br>
